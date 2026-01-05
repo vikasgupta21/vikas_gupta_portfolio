@@ -34,36 +34,47 @@ const counterItems = [
 const logoIconsList = [
   {
     imgPath: "/images/logos/company-logo-1.png",
+    name : " addidas"
   },
   {
     imgPath: "/images/logos/company-logo-2.png",
+    name : "docker"
   },
   {
     imgPath: "/images/logos/company-logo-3.png",
+    name : " shofiy"
   },
   {
     imgPath: "/images/logos/company-logo-4.png",
+    name : "vercel"
   },
   {
     imgPath: "/images/logos/company-logo-5.png",
+    name : " linear"
   },
   {
     imgPath: "/images/logos/company-logo-6.png",
+    name:"framer"
   },
   {
     imgPath: "/images/logos/company-logo-7.png",
+    name : "nvidia"
   },
   {
     imgPath: "/images/logos/company-logo-8.png",
+    name : " hostinger"
   },
   {
     imgPath: "/images/logos/company-logo-9.png",
+    name : " addidas"
   },
   {
     imgPath: "/images/logos/company-logo-10.png",
+    name : " addidas"
   },
   {
     imgPath: "/images/logos/company-logo-11.png",
+    name : " addidas"
   },
 ];
 
